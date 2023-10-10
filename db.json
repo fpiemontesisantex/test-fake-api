@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "brands": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Philips"
+    },
+    {
+      "id": 2,
+      "name": "Asus"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": []
 }
